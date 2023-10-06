@@ -1,1 +1,2 @@
-# parcial-dos-6-10
+# parcial-II
+La tabla de tareas es un elemento central de la página web diseñado para organizar y mostrar una lista de actividades que los usuarios deben realizar. Cada tarea se presenta en una fila de la tabla, donde se muestra su descripción, permitiendo a los usuarios entender rápidamente la naturaleza de la tarea. Además, la tabla proporciona información sobre el estado de cada tarea, indicando si está "Hecha" o "No Hecha", lo que ayuda a realizar un seguimiento efectivo del progreso. También brinda la capacidad de interactuar con las tareas, permitiendo a los usuarios cambiar su estado o eliminarlas de la lista, lo que facilita la gestión y el mantenimiento de las tareas pendientes de manera eficiente y organizada.
